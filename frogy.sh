@@ -85,7 +85,7 @@ cat temp_wordlist.txt | ./anew | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | g
 rm temp_wordlist.txt
 ############ Running Crt.sh on all domain iterations  ##############
 
-for i in $(cat wordlist.txt); do curl -s "https://crt.sh/?q="$i"."$org"&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u; done >> all.txt &> /dev/null
+for i in $(cat wordlist.txt); do curl -s "https://crt.sh/?q="$i"."$org"%&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u; done >> all.txt &> /dev/null
 
 ############ Housekeeping Tasks ##############
 
