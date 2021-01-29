@@ -1,5 +1,3 @@
-![2021-01-28 22_56_51-192 64 80 151 - PuTTY](https://user-images.githubusercontent.com/8291014/106209013-3839f380-61bc-11eb-9c0e-a8ebf59e0f15.png)
-
 # Frogy's Subdomain Enumeraton - It's not yet another Subdomain Enumeration tool
 An automation tool that scans sub-domains using multiple tools. Most importantly, it greps all the words from the first, second and N level of subdomains and creates a wordlist. Then uses crt.sh to brute force every single name to identify any hidden subdomains out there. <br/>
 
