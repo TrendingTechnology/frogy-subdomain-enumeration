@@ -2,20 +2,20 @@
 
 echo -e "
 
- _______                                                                                                                                
-(_______)                                                                                                                               
- _____  ____  ___    ____  _   _                                                                                                        
-|  ___)/ ___)/ _ \  / _  || | | |                                                                                                       
-| |   | |   | |_| |( ( | || |_| |                                                                                                       
-|_|   |_|    \___/  \_|| | \__  |                                                                                                       
-                   (_____|(____/                                                                                                        
-    _            _          _                       _           _______                                                 _               
-   | |          | |        | |                     (_)         (_______)                                          _    (_)              
-    \ \   _   _ | | _    _ | |  ___   ____    ____  _  ____     _____    ____   _   _  ____    ____   ____  ____ | |_   _   ___   ____  
-     \ \ | | | || || \  / || | / _ \ |    \  / _  || ||  _ \   |  ___)  |  _ \ | | | ||    \  / _  ) / ___)/ _  ||  _) | | / _ \ |  _ \ 
+ _______
+(_______)
+ _____  ____  ___    ____  _   _
+|  ___)/ ___)/ _ \  / _  || | | |
+| |   | |   | |_| |( ( | || |_| |
+|_|   |_|    \___/  \_|| | \__  |
+                   (_____|(____/
+    _            _          _                       _           _______                                                 _
+   | |          | |        | |                     (_)         (_______)                                          _    (_)
+    \ \   _   _ | | _    _ | |  ___   ____    ____  _  ____     _____    ____   _   _  ____    ____   ____  ____ | |_   _   ___   ____
+     \ \ | | | || || \  / || | / _ \ |    \  / _  || ||  _ \   |  ___)  |  _ \ | | | ||    \  / _  ) / ___)/ _  ||  _) | | / _ \ |  _ \
  _____) )| |_| || |_) )( (_| || |_| || | | |( ( | || || | | |  | |_____ | | | || |_| || | | |( (/ / | |   ( ( | || |__ | || |_| || | | |
 (______/  \____||____/  \____| \___/ |_|_|_| \_||_||_||_| |_|  |_______)|_| |_| \____||_|_|_| \____)|_|    \_||_| \___)|_| \___/ |_| |_|
-                                                                                                                                        
+
 
 "
 
@@ -29,12 +29,12 @@ chmod +x subfinder
 echo -e "\e[94m Enter the organisation name (without space): \e[0m"
 read org
 
-echo -e "\e[94m Enter the root domain name (eg-frogy.com): \e[0m"
+echo -e "\e[94m Enter the root domain name (eg: frogy.com): \e[0m"
 read domain_name
 
 echo -e "\e[92m Hold on! some house keeping tasks being done... \e[0m"
 if test -e wordlist.txt; then
-  rm wordlist.txt 
+  rm wordlist.txt
 fi
 
 if test -e all.txt; then
@@ -97,4 +97,9 @@ cat all.txt | ./anew >> $(date +"%FT%T").txt
 rm all.txt
 
 echo -e "Result is saved in the  \e[91m$(ls 2021-*.txt) file.\e[0m"
+cat wordlist.txt >> master_wordlist.txt
 rm wordlist.txt
+
+cat master_wordlist.txt | anew >> master_wordlist2.txt
+rm master_wordlist.txt
+mv master_wordlist2.txt master_wordlist.txt
