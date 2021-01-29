@@ -79,7 +79,11 @@ cat all.txt | cut -d "." -f7 >> temp_wordlist.txt
 cat all.txt | cut -d "." -f8 >> temp_wordlist.txt
 cat all.txt | cut -d "." -f9 >> temp_wordlist.txt
 cat all.txt | cut -d "." -f10 >> temp_wordlist.txt
-
+cat all.txt | cut -d "." -f11 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f12 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f13 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f14 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f15 >> temp_wordlist.txt
 cat temp_wordlist.txt | ./anew | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u >> wordlist.txt
 
 rm temp_wordlist.txt
