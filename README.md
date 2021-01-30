@@ -26,7 +26,7 @@ An automation tool that scans sub-domains using multiple tools. Most importantly
     ```
  **Future Roadmap**
  - ASNlookup to domain mapping
- - Guide and logic on how to run this on daily basis to find new domains by comparing it to the existing one for that organisation
+ - Guide on how to find new domains for X organisation on daily basis
  - Better folder structure management
  
 #### Thanks to the authors of the tools used in this script.
