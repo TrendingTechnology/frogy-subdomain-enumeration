@@ -24,7 +24,7 @@ An automation tool that scans sub-domains using multiple tools. Most importantly
     ```sh
     ./frogy.sh
     ```
-**Future Roadmap**
+**TODO**
 - ✅ ~~Efficient folder structure management~~
 - ASNlookup to domain mapping
 - Guide on how to find new domains for X organisation on daily basis
