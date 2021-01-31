@@ -1,3 +1,122 @@
-z="
-";IJz=' ./a';LKz='ordl';pIz='ter_';mJz='t.tx';XGz='/crt';LDz='_ \ ';EFz=' som';MJz='ndom';oIz='o su';eJz='txt ';LLz='-tem';rDz='__|\';XCz='dddo';QCz='oolc';MKz='ist.';qHz='r '\''.';IIz='t';JIz='g"%&';xHz='s/\*';sDz='|_|_';NCz='dxxx';sCz='(_)';yKz='ed i';YEz='r th';gz=',,:o';LBz=',d  ';ZKz='s "h';hDz='__| ';ODz='\(__';mKz='anew';bKz='://c';MLz='p.tx';oz='dxdc';BDz='_  _';bDz=' \';BKz='1 >>';dDz=' |_|';FLz='t >>';fEz='hout';aHz=' gre';GFz='use ';MFz='... ';yDz='_|  ';TCz='lood';TLz='/';JDz='\___';RBz='oxxx';UHz='\*\.';FEz='d +x';wDz='__/|';BCz='xddd';oCz='  (_';TDz='   \';NJz='ain-';xCz='  __';fGz='.[].';PCz='kkxx';FDz='_ __';Xz=''\'''\'',;';xDz='_|_|';yGz='sort';ez=':,'\'';';PBz='...d';Gz='    ';TFz=':';pz=',,:;';yFz='er..';CFz='Hold';cGz='n" |';uJz=' -f9';lJz='dlis';FGz='tify';RHz='d'\'' |';AGz='. \e';iz='od:,';fz=';;;,';OCz='xxxk';LJz='./fi';NEz='in-l';BGz='[0m"';kz='.x0c';wHz='$/d'\''';yHz='\.//';CCz=':'\''';iEz=' \e[';YIz='v "@';jFz=' the';BLz='e ou';lFz=''\'' fo';XDz='_ (_';lEz=' org';aDz='|  _';wCz='|__ ';VEz='"\e[';rEz='eg: ';iCz='___)';UGz=' -s ';ILz='g-wo';yz='oOOO';KLz=']';jJz='temp';Az='echo';VLz='er_w';ACz='ddod';NDz=' |/ ';YCz='lcc:';SBz='xxxx';qEz='me (';RDz=') | ';DIz=' "*"';FBz=';   ';kDz='_ | ';uGz='grep';bCz='dddx';IGz='e[0m';ZHz=' " |';tFz='in t';LEz=' fin';MCz='ooll';XBz=';odl';jCz=' | |';tIz='ev/n';EGz='Iden';lBz='lddd';nJz=' -f2';qDz=' \__';tBz='ddol';pDz='_/|_';MBz='.o;l';Ez=':::,';wKz='t is';gBz='l:.';EKz='4 >>';vKz='esul';dIz='pyth';XHz='rep ';AKz='st.t';lKz='| ./';nDz='(___';yIz='ubli';sz=';cdl';kGz='^$/d';fCz='cc::';uDz='|  |';bLz='rm m';FHz='utpu';iKz='&> /';hz='dl';JJz='new ';LGz='der ';wJz=' tem';VBz=':d;o';Nz='clod';rJz=' -f6';aBz='cddd';KKz='rg-w';tHz='valu';uCz='___ ';sJz=' -f7';QLz='mv o';IDz='__';MGz='-d $';uz=';.  ';rGz='ep -';hKz='-u; ';WBz='d'\''';bFz=' ]]';WHz=' | g';AIz='g'\'' |';sHz='ame_';fJz='| cu';fBz='dcod';jz=';,..';Mz='olcc';hFz='xist';iHz='.txt';NHz='lue'\''';CBz='::;o';YJz='usin';cFz=' dir';Oz='dl;:';JEz='etfi';GBz='   :';aLz='xt; ';XEz='Ente';jKz='dev/';hBz=';clo';PDz='__ |';bHz='p -v';hCz='/ __';gJz='t -d';YDz='   _';qIz='ut.t';fHz='t -u';SCz='.::c';oEz='omai';TEz='find';WEz='94m ';xJz='p_wo';Bz=' -e ';PKz='word';xEz=' dom';pHz='jq -';KDz='_ \|';YHz='-v "';nHz='put=';oHz='json';sGz='v " ';Uz='::cl';CIz='@" |';jDz='|   ';eBz='...:';jHz='?q=%';hHz=' all';yCz='| | ';tGz='" | ';vz='  ..';SIz=''\''/^$';FJz='inde';tEz='y.co';nKz='ut/$';ZFz='put/';GHz='t=js';RGz='ll.t';qGz='| gr';kCz='   |';DDz='_   ';PJz='x -t';JCz='olcl';gGz='_val';Fz='..  ';CLz='g fo';fIz='subl';RKz='for ';FKz='5 >>';EJz='setf';vJz='0 >>';QDz='  | ';lz=':c;;';Pz='looo';Tz='dlc:';pBz='olc:';eEz='(wit';NKz='rm t';qFz='g di';dCz='.,:c';qz='00..';nFz='Crea';cEz='on n';SKz='i in';WGz='ps:/';eHz=' sor';KIz='ut=j';GDz='_| |';wFz='ut'\'' ';KGz='bfin';SJz='_nam';KEz='nder';YLz='> ma';OLz='t/$o';aJz=' nam';tDz='|_\_';WLz='| an';vBz='dooc';hJz=' "."';UFz='else';QEz='prob';dGz=' jq ';CGz='/$or';NBz='.do,';Sz='::xx';WIz='.//g';QGz='>> a';Wz='cxo;';WDz='|___';XLz='ew >';DBz='d.';hIz='r/su';DGz='g';Kz=';'\''.';ULz='mast';xFz='fold';oBz='lldd';ZBz='.,od';qBz=',:lo';iDz='| |_';AFz='name';SEz=' sub';FIz='-u >';UKz='at $';uBz='lllo';RIz='alue';bEz='sati';WCz='lloo';dBz='l:d:';XFz='tput';tCz='( (_';kHz='"$or';NGz='in_n';RJz='main';OKz='emp_';bz='OOOO';PHz='ed '\''';ICz=':clo';MHz='e_va';OBz='o...';gKz='org"';BHz=' >> ';SDz=' _ \';CJz='put.';mBz='ddoc';VCz='llll';pEz='n na';WKz='); d';lDz='|_| ';TIz='/d'\'' ';YFz='fi';HFz='keep';VJz='efor';aCz=',:cc';JLz='xt ]';AEz='___|';uHz='e'\'' |';KBz='xodl';LHz='.nam';CHz='all.';BIz=' " "';BEz='  \_';kKz='null';NLz='rm o';dLz='r_wo';AHz=' -u ';HGz='ns \';oGz='*\./';UCz='dool';wz='  .o';ZLz='t2.t';VDz='_ |/';vDz='_|__';dKz='h/?q';KHz=''\''.[]';rFz='rect';aKz='ttps';uIz='ull';XKz='o cu';QBz='ocdd';kBz='lool';QHz='/^$/';gDz=' / _';Cz='"';cKz='rt.s';qKz='te +';eLz='mv m';YBz='cl,.';eGz='-r '\''';oJz=' -f3';SGz='xt';uKz='36mR';YGz='.sh/';BFz='92m ';VHz='//g'\''';GKz='t | ';Zz=',:od';SLz='mv $';Rz='oool';DKz='3 >>';hEz='ce):';BJz='_out';PFz=' out';nGz=''\''s/\';gCz=':.';sKz='%T")';nIz='me -';jEz='0m"';ELz='-wor';XJz='ins ';EIz='ort ';KJz='" >>';Hz='....';DHz='txt';VIz='/\*\';TBz='xodo';cJz='erat';ECz='xlod';xz=';:od';JBz='kkkk';ZDz=') |/';UJz='Brut';YKz='rl -';kEz='read';fDz=' (_|';THz=' '\''s/';jIz='t3r.';mHz='&out';ZCz=',';dJz='ions';Qz='oddo';nBz='cclo';JKz='> $o';Jz='lllc';sEz='frog';SHz=' sed';gHz='  >>';HCz='llc:';cDz='_) )';GCz='dolc';GIz='> al';Lz='.cxd';RLz='rm $';rz='.,:;';rHz='[].n';MEz='doma';CKz='2 >>';ALz='n th';mGz='sed ';eKz='="$i';rBz='doll';REz='e';jGz='d '\''/';cHz=' "@"';aIz='| so';vIz='cat ';VGz='"htt';dHz='*" |';uEz='m): ';oDz='___/';IBz='lkkk';dFz='ecto';mCz='   (';JFz='task';KFz='s be';DFz=' on!';pJz=' -f4';QIz='me_v';bBz='oddd';oKz='org/';mEz='e ro';RFz=']]';MDz='/ _ ';CEz='_)_|';Vz='ddl.';iBz='docl';iFz='s in';cz='OOOk';IFz='ing ';HKz='./an';pCz='____';OFz='[ -d';PEz=' htt';HHz='on" ';mz='ldox';eIz='on3 ';ZGz='?q="';SFz='then';ZIz='"*" ';QFz='put ';PIz='].na';lIz='d $d';rKz='"%FT';cCz='c::.';LCz='ollc';IHz='| jq';TKz=' $(c';qCz='__) ';bGz='=jso';UEz='er';pKz='$(da';eFz='ry a';NIz='q -r';vEz='\e[0';vGz=' -v ';xBz=''\'':ll';xIz='rm s';vCz=' _| ';DJz='./as';ADz=' ___';mDz='| |';OIz=' '\''.[';HEz='w';RCz=':;';kFz=' '\''ou';AJz='ster';fLz='st2.';WFz='r ou';sFz='ory ';DCz=':cll';OGz='-sil';CDz=' _ _';iGz='| se';tJz=' -f8';lHz='g".%';TJz='e -q';FCz='dlld';cBz='dddd';GGz='Subd';HDz='_ _ ';nEz='ot d';dz='dxxl';mIz='n_na';wIz='r_ou';GEz=' ane';oFz='ting';iJz=' -f1';OHz=' | s';TGz='curl';OJz='linu';IEz=' ass';gEz=' spa';aFz='$org';az='odkO';qJz=' -f5';GLz=' mas';UIz='d '\''s';HLz='[ -e';MIz=' | j';hGz='ue'\'' ';xGz='v "*';fKz='"."$';gFz='dy e';GJz='r $o';tKz='rm a';QJz=' $do';jBz='lccc';vHz=' '\''/^';JGz='./su';rIz='xt &';lGz=''\'' | ';LIz='son"';yEz='ain_';pGz='/g'\'' ';Yz=';;,,';cIz='u  >';IKz='ew |';cLz='aste';nCz='_)  ';ABz='Oodl';PGz='ent ';tz=''\''dc,';kIz='py -';sIz='> /d';xKz=' sav';pFz=' $or';JHz=' -r ';fFz='lrea';vFz='outp';HBz='o;od';PLz='rg/$';lCz=' |  ';UBz=';x,.';nz='0000';WJz='cing';LFz='done';HIz='l.tx';wGz='"@" ';FFz='e ho';bJz='e it';OEz='inux';VFz='mkdi';XIz='" " ';sBz='llod';iIz='blis';mFz='lder';yBz='dxxd';DEz='/|_|';QKz='list';eDz='_) |';UDz='| __';uFz='he '\''';DLz='.  \';wBz=':,';Dz='.,;:';HJz='rg |';ZJz='g do';aGz='"&ou';VKz='org-';rCz=' _  ';eCz='cccc';KCz='odxx';BBz=',;; ';aEz='gani';EDz='  _ ';EEz='chmo';bIz='rt -';gIz='iste';kJz='_wor';wEz='m"';yJz='rdli';EBz=''\''ol'\''';NFz='if [';Iz='.,:l';EHz='"%&o';dEz='ame ';ZEz='e or';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$Fz$Gz$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$z$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$nz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$yz$bz$ABz$BBz$Gz$Gz$CBz$DBz$z$EBz$FBz$Gz$GBz$HBz$IBz$JBz$KBz$LBz$Gz$Gz$MBz$DBz$z$NBz$OBz$Hz$PBz$QBz$RBz$SBz$TBz$UBz$Hz$Hz$VBz$WBz$z$XBz$YBz$Hz$ZBz$aBz$bBz$cBz$cBz$dBz$Hz$eBz$fBz$gBz$z$hBz$iBz$jBz$kBz$lBz$cBz$cBz$cBz$mBz$Jz$nBz$oBz$pBz$z$qBz$bBz$rBz$sBz$cBz$cBz$cBz$cBz$cBz$tBz$uBz$cBz$vBz$wBz$z$xBz$bBz$cBz$cBz$cBz$yBz$cBz$ACz$BCz$cBz$cBz$cBz$rBz$CCz$z$DCz$Nz$cBz$cBz$cBz$ECz$cBz$FCz$cBz$cBz$cBz$GCz$HCz$z$ICz$JCz$KCz$BCz$cBz$cBz$cBz$cBz$cBz$SBz$LCz$kBz$wBz$z$Uz$MCz$uBz$NCz$SBz$SBz$OCz$PCz$rBz$uBz$QCz$RCz$z$SCz$TCz$UCz$VCz$VCz$VCz$VCz$WCz$XCz$YCz$ZCz$z$aCz$WCz$bCz$SBz$SBz$XCz$LCz$cCz$z$dCz$eCz$eCz$fCz$gCz$z$hCz$iCz$Gz$jCz$Gz$kCz$lCz$Gz$Gz$Gz$mCz$nCz$Gz$oCz$pCz$qCz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$rCz$sCz$z$tCz$uCz$rCz$vCz$wCz$xCz$yCz$uCz$ADz$BDz$pCz$CDz$uCz$Gz$pCz$DDz$pCz$EDz$EDz$pCz$xCz$uCz$ADz$FDz$uCz$GDz$HDz$ADz$xCz$IDz$z$JDz$KDz$jCz$lCz$LDz$MDz$NDz$KDz$Gz$ODz$PDz$lCz$LDz$QDz$ADz$RDz$SDz$yCz$yCz$TDz$UDz$VDz$ADz$WDz$XDz$YDz$ZDz$SDz$aDz$bDz$z$pCz$cDz$dDz$jCz$eDz$fDz$jCz$GDz$jCz$gDz$PDz$jCz$jCz$QDz$WDz$hDz$yCz$iDz$yCz$yCz$UDz$hDz$jDz$hCz$kDz$iDz$yCz$lDz$yCz$mDz$z$nDz$oDz$WDz$pDz$oDz$qDz$rDz$oDz$sDz$tDz$pCz$sDz$iDz$uDz$pCz$iCz$GDz$vDz$wDz$xDz$vDz$iCz$yDz$qDz$AEz$BEz$CEz$JDz$DEz$dDz$z$Cz$z$EEz$FEz$GEz$HEz$z$EEz$FEz$IEz$JEz$KEz$z$EEz$FEz$LEz$MEz$NEz$OEz$z$EEz$FEz$PEz$QEz$REz$z$EEz$FEz$SEz$TEz$UEz$z$Az$Bz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$z$kEz$lEz$z$Az$Bz$VEz$WEz$XEz$YEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$z$kEz$xEz$yEz$AFz$z$Az$Bz$VEz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$IFz$LFz$MFz$vEz$wEz$z$NFz$OFz$PFz$QFz$RFz$z$SFz$z$TFz$z$UFz$z$VFz$WFz$XFz$z$YFz$z$NFz$OFz$PFz$ZFz$aFz$bFz$z$SFz$z$Az$Bz$VEz$WEz$aFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$XFz$lFz$mFz$vEz$wEz$z$UFz$z$Az$Bz$VEz$WEz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$z$VFz$WFz$XFz$CGz$DGz$z$YFz$z$Az$Bz$VEz$BFz$EGz$FGz$IFz$GGz$oEz$HGz$IGz$Cz$z$JGz$KGz$LGz$MGz$MEz$NGz$dEz$OGz$PGz$QGz$RGz$SGz$z$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aFz$aGz$XFz$bGz$cGz$dGz$eGz$fGz$AFz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$qGz$rGz$xGz$tGz$yGz$AHz$BHz$CHz$DHz$z$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aFz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$WHz$XHz$YHz$dHz$eHz$fHz$gHz$hHz$iHz$z$TGz$UGz$VGz$WGz$XGz$YGz$jHz$kHz$lHz$mHz$nHz$oHz$tGz$pHz$qHz$rHz$sHz$tHz$uHz$SHz$vHz$wHz$OHz$PHz$xHz$yHz$AIz$aHz$bHz$BIz$WHz$XHz$YHz$CIz$aHz$bHz$DIz$OHz$EIz$FIz$GIz$HIz$IIz$z$TGz$UGz$VGz$WGz$XGz$YGz$jHz$kHz$JIz$vFz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$lGz$mGz$SIz$TIz$iGz$UIz$VIz$WIz$lGz$uGz$vGz$XIz$qGz$rGz$YIz$tGz$uGz$vGz$ZIz$aIz$bIz$cIz$GIz$HIz$IIz$z$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$oEz$mIz$nIz$oIz$iIz$pIz$vFz$qIz$rIz$sIz$tIz$uIz$z$vIz$fIz$gIz$wIz$XFz$iHz$BHz$CHz$DHz$z$xIz$yIz$AJz$BJz$CJz$DHz$z$DJz$EJz$FJz$GJz$HJz$IJz$JJz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$qGz$rGz$xGz$KJz$hHz$iHz$z$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$BHz$CHz$DHz$z$Az$Bz$VEz$BFz$UJz$VJz$WJz$SEz$MEz$XJz$YJz$ZJz$RJz$aJz$bJz$cJz$dJz$MFz$vEz$wEz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$nJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$oJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$pJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$qJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$rJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$sJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$tJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$uJz$BHz$jJz$kJz$lJz$mJz$IIz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$vJz$wJz$xJz$yJz$AKz$SGz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$BKz$wJz$xJz$yJz$AKz$SGz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$CKz$wJz$xJz$yJz$AKz$SGz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$DKz$wJz$xJz$yJz$AKz$SGz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$EKz$wJz$xJz$yJz$AKz$SGz$z$vIz$CHz$eJz$fJz$gJz$hJz$iJz$FKz$wJz$xJz$yJz$AKz$SGz$z$vIz$jJz$kJz$lJz$mJz$GKz$HKz$IKz$SHz$vHz$wHz$OHz$PHz$xHz$yHz$AIz$aHz$bHz$BIz$WHz$XHz$YHz$CIz$aHz$bHz$DIz$OHz$EIz$FIz$JKz$KKz$LKz$MKz$DHz$z$NKz$OKz$PKz$QKz$iHz$z$RKz$SKz$TKz$UKz$VKz$PKz$QKz$iHz$WKz$XKz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$mHz$nHz$oHz$tGz$pHz$qHz$rHz$sHz$tHz$uHz$SHz$vHz$wHz$OHz$PHz$xHz$yHz$AIz$aHz$bHz$BIz$WHz$XHz$YHz$CIz$aHz$bHz$DIz$OHz$EIz$hKz$LFz$BHz$CHz$eJz$iKz$jKz$kKz$z$vIz$CHz$eJz$lKz$mKz$BHz$vFz$nKz$oKz$pKz$qKz$rKz$sKz$iHz$z$tKz$RGz$SGz$z$Az$Bz$VEz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$XFz$CGz$CLz$mFz$DLz$IGz$Cz$z$vIz$aFz$ELz$lJz$mJz$FLz$GLz$pIz$PKz$QKz$iHz$z$NFz$HLz$PFz$ZFz$aFz$CGz$ILz$yJz$AKz$JLz$KLz$z$SFz$z$vIz$aFz$ELz$lJz$mJz$FLz$PFz$ZFz$aFz$CGz$ILz$yJz$AKz$SGz$z$vIz$vFz$nKz$oKz$aFz$ELz$lJz$mJz$GKz$mKz$BHz$vFz$nKz$oKz$aFz$LLz$MLz$IIz$z$NLz$FHz$OLz$PLz$VKz$PKz$QKz$iHz$z$QLz$FHz$OLz$PLz$VKz$jJz$iHz$PFz$ZFz$aFz$CGz$ILz$yJz$AKz$SGz$z$RLz$VKz$PKz$QKz$iHz$z$UFz$z$SLz$VKz$PKz$QKz$iHz$PFz$ZFz$aFz$TLz$z$YFz$z$vIz$ULz$VLz$LKz$MKz$eJz$WLz$XLz$YLz$AJz$kJz$lJz$ZLz$aLz$bLz$cLz$dLz$yJz$AKz$aLz$eLz$cLz$dLz$yJz$fLz$eJz$ULz$VLz$LKz$MKz$DHz"root@tpfzlvzhrmjktohsvl
+#!/bin/bash
+
+echo -e "
+
+
+           .,;::::,..      ......      .,:llllc;'.
+        .cxdolcccloddl;:looooddooool::xxdlc:::clddl.
+       cxo;'',;;;,,,:ododkOOOOOOOOkdxxl:,';;;;,,,:odl
+      od:,;,...x0c:c;;ldox00000000dxdc,,:;00...,:;;cdl
+     'dc,;.    ..  .o;:odoOOOOOOOOodl,;;         ::;od.
+     'ol';          :o;odlkkkkkkkxodl,d          .o;ld.
+     .do,o..........docddoxxxxxxxxodo;x,.........:d;od'
+     ;odlcl,......,odcdddodddddddddddl:d:.......:dcodl:.
+    ;clodocllcccloolldddddddddddddddddoclllccclollddolc:
+   ,:looddddollllodddddddddddddddddddddddollllodddddooc:,
+   ':lloddddddddddddddddxxdddddddodxddddddddddddddddoll:'
+    :cllclodddddddddddddxloddddddllddddddddddddddolcllc:
+     :cloolclodxxxdddddddddddddddddddddddxxxxollclool:,
+       ::cloolllllodxxxxxxxxxxxxxxkkkxxdolllllooolc:;
+         .::clooddoollllllllllllllllllloodddolcc:,
+              ,:cclloodddxxxxxxxxxdddoollcc::.
+                     .,:ccccccccccc:::.
+
+ / _____)     | |       | |                 (_)        (_______)                                      _  (_)
+( (____  _   _| |__   __| | ___  ____  _____ _ ____     _____   ____  _   _ ____  _____  ____ _____ _| |_ _  ___  ____
+ \____ \| | | |  _ \ / _  |/ _ \|    \(____ | |  _ \   |  ___) |  _ \| | | |    \| ___ |/ ___|____ (_   _) |/ _ \|  _ \
+ _____) ) |_| | |_) | (_| | |_| | | | / ___ | | | | |  | |_____| | | | |_| | | | | ____| |   / ___ | | |_| | |_| | | | |
+(______/|____/|____/ \____|\___/|_|_|_\_____|_|_| |_|  |_______)_| |_|____/|_|_|_|_____)_|   \_____|  \__)_|\___/|_| |_|
+                                                                                                                        "
+
+########### Taking User Input  ############
+chmod +x anew
+chmod +x assetfinder
+chmod +x findomain-linux
+chmod +x httprobe
+chmod +x subfinder
+
+
+echo -e "\e[94m Enter the organisation name (without space): \e[0m"
+read org
+
+echo -e "\e[94m Enter the root domain name (eg: frogy.com): \e[0m"
+read domain_name
+
+echo -e "\e[92m Hold on! some house keeping tasks being done... \e[0m"
+
+if [[ -d output ]]
+then
+        :
+else
+        mkdir output
+fi
+
+if [[ -d output/$org ]]
+then
+        echo -e "\e[94m $org directory already exists in the 'output' folder\e[0m"
+else
+        echo -e "\e[94m Creating $org directory in the 'output' folder... \e[0m"
+        mkdir output/$org
+fi
+
+############ Find Subdomains ##############
+echo -e "\e[92m Identifying Subdomains \e[0m"
+./subfinder -d $domain_name -silent >> all.txt
+
+curl -s "https://crt.sh/?q="$org"&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u  >> all.txt
+curl -s "https://crt.sh/?q="$org"%&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u  >> all.txt
+curl -s "https://crt.sh/?q=%"$org".%&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u >> all.txt
+curl -s "https://crt.sh/?q=%"$org"%&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u  >> all.txt
+
+python3 sublister/sublist3r.py -d $domain_name -o sublister_output.txt &> /dev/null
+cat sublister_output.txt >> all.txt
+rm sublister_output.txt
+
+./assetfinder $org | ./anew | grep -v " " | grep -v "@" | grep -v "*" >> all.txt
+
+./findomain-linux -t $domain_name -q >> all.txt
+
+echo -e "\e[92m Bruteforcing subdomains using domain name iterations... \e[0m"
+
+############ Generating Wordlist  ##############
+cat all.txt | cut -d "." -f1 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f2 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f3 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f4 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f5 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f6 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f7 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f8 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f9 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f10 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f11 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f12 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f13 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f14 >> temp_wordlist.txt
+cat all.txt | cut -d "." -f15 >> temp_wordlist.txt
+cat temp_wordlist.txt | ./anew | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u >> $org-wordlist.txt
+
+rm temp_wordlist.txt
+############ Running Crt.sh on all domain iterations  ##############
+
+for i in $(cat $org-wordlist.txt); do curl -s "https://crt.sh/?q="$i"."$org"&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u; done >> all.txt &> /dev/null
+
+############ Housekeeping Tasks ##############
+
+cat all.txt | ./anew >> output/$org/$(date +"%FT%T").txt
+rm all.txt
+
+echo -e "\e[36mResult is saved in the output/$org folder.  \e[0m"
+cat $org-wordlist.txt >> master_wordlist.txt
+if [[ -e output/$org/$org-wordlist.txt ]]
+then
+        cat $org-wordlist.txt >> output/$org/$org-wordlist.txt
+        cat output/$org/$org-wordlist.txt | anew >> output/$org/$org-temp.txt
+        rm output/$org/$org-wordlist.txt
+        mv output/$org/$org-temp.txt output/$org/$org-wordlist.txt
+        rm $org-wordlist.txt
+else
+        mv $org-wordlist.txt output/$org/
+fi
+
+cat master_wordlist.txt | anew >> master_wordlist2.txt; rm master_wordlist.txt; mv master_wordlist2.txt master_wordlist.txt
