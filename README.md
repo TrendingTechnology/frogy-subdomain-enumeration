@@ -6,12 +6,11 @@ An automation tool that scans sub-domains using multiple tools. Most importantly
 + **Requirements:** Go Language, Python 3.+, jq
 + **Tools used - You must need to install these tools to use this script**<br/>
 
-  + [SubFinder](https://github.com/projectdiscovery/subfinder)
-  + [Sublist3r](https://github.com/aboul3la/Sublist3r)
-  + [Assetfinder](https://github.com/tomnomnom/assetfinder)
-  + [Find-domain](https://github.com/Findomain/Findomain)
-  + [httprobe](https://github.com/tomnomnom/anew)
-  + [anew](https://github.com/tomnomnom/httprobe)
+  + [SubFinder](https://github.com/projectdiscovery/subfinder) - Download and put it into the /user/bin folder with executable permission
+  + [Assetfinder](https://github.com/tomnomnom/assetfinder) - Download and put it into the /user/bin folder with executable permission
+  + [Find-domain](https://github.com/Findomain/Findomain) - Download and put it into the /user/bin folder with executable permission
+  + [httprobe](https://github.com/tomnomnom/anew) - Download and put it into the /user/bin folder with executable permission
+  + [anew](https://github.com/tomnomnom/httprobe) - Download and put it into the /user/bin folder with executable permission
   
 + **Installation**
 
@@ -26,7 +25,6 @@ An automation tool that scans sub-domains using multiple tools. Most importantly
     ```
 **TODO**
 - ✅ ~~Efficient folder structure management~~
-- ASNlookup to domain mapping
 - Guide on how to find new domains for X organisation on daily basis
  
 #### Thanks to the authors of the tools used in this script.
