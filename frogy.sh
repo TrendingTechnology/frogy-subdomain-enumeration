@@ -57,8 +57,13 @@ curl -s "https://crt.sh/?q=%"$org".%&output=json" | jq -r '.[].name_value' | sed
 curl -s "https://crt.sh/?q=%"$org"%&output=json" | jq -r '.[].name_value' | sed '/^$/d' | sed 's/\*\.//g' | grep -v " " | grep -v "@" | grep -v "*" | sort -u  >> all.txt
 
 python3 sublister/sublist3r.py -d $domain_name -o sublister_output.txt &> /dev/null
-cat sublister_output.txt >> all.txt
-rm sublister_output.txt
+if [[ -e sublister_output.txt ]]
+then
+        cat sublister_output.txt >> all.txt
+        rm sublister_output.txt
+else
+        :
+fi
 
 assetfinder $org | anew | grep -v " " | grep -v "@" | grep -v "*" >> all.txt
 
